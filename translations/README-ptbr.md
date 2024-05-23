@@ -492,16 +492,16 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 
 ## Conhecimento Prévio
 
-- [ ] **Aprenda C**
+- [x] **Aprenda C**
     - C está em todo lugar. Você vai ver exemplos em livros, aulas, vídeos, em todo lugar enquanto você estiver estudando.
-    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628) (Linguagem de Programação C, Vol 2)
+    - [x] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628) (Linguagem de Programação C, Vol 2)
         - Esse é um livro curto, mas vai te ajudar a ter um ótimo domínio da linguagem C e se você praticar um pouco 
             você irá se tornar proficiente rapidamente. Entender C te ajuda a entender como os programas e a memória funcionam.
         - [answers to questions](https://github.com/lekkas/c-algorithms) (respostas para as questões) 
 
-- [ ] **Como computadores processam um programa:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) (Como uma CPU executa um programa - vídeo)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) (Instruções de Código de Máquina - vídeo)
+- [x] **Como computadores processam um programa:**
+    - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) (Como uma CPU executa um programa - vídeo)
+    - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) (Instruções de Código de Máquina - vídeo)
 
 ## Complexidade Algorítmica / Big-O / Análise assintótica
 - nada para implementar
