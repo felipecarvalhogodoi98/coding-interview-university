@@ -564,7 +564,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
         - espaço necessário = (capacidade do array, a qual é >= n) * tamanho do item, mas mesmo que seja 2n, ainda será O(n)
     - [ ] Implementações
         - [x] C
-        - [ ] C++
+        - [x] C++
         - [ ] Python
 - ### Listas Ligadas
     - [ ] Descrição:
