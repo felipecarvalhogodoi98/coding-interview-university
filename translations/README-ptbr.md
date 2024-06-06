@@ -565,7 +565,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
     - [ ] Implementações
         - [x] C
         - [x] C++
-        - [ ] Python
+        - [x] Python
 - ### Listas Ligadas
     - [ ] Descrição:
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists) (listas ligadas individualmente - vídeo)
