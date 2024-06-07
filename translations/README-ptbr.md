@@ -603,7 +603,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
     - [ ] Implementações
         - [x] C
         - [x] C++
-        - [] Python
+        - [x] Python
 
 - ### Stack
     - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
