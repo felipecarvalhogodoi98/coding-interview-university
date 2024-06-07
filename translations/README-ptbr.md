@@ -602,7 +602,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
         - Não há necessidade de implementar
     - [ ] Implementações
         - [x] C
-        - [] C++
+        - [x] C++
         - [] Python
 
 - ### Stack
