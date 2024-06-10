@@ -562,7 +562,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
     - [x] Espaço
         - contíguo na memória, então proximidade ajuda no desempenho
         - espaço necessário = (capacidade do array, a qual é >= n) * tamanho do item, mas mesmo que seja 2n, ainda será O(n)
-    - [ ] Implementações
+    - [x] Implementações
         - [x] C
         - [x] C++
         - [x] Python
@@ -600,36 +600,41 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
     - [ ] Listas Ligadas Duplamente
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists) (Descrição - vídeo)
         - Não há necessidade de implementar
-    - [ ] Implementações
+    - [x] Implementações
         - [x] C
         - [x] C++
         - [x] Python
 
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - [ ] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
-    - [ ] Não implementarei. Implementar com array é trivial.
+    - [x] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+    - [x] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
+    - [x] Não implementarei. Implementar com array é trivial.
+    - [x] Implementações
+        - [x] Python
 
 - ### Queue (Fila)
-    - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
-    - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer) 
-    - [ ] [[Review] Queues in 3 minutes (video)](https://youtu.be/D6gu-_tmEpQ)(Buffer circular/Primeiro a entrar, último a sair)
-    - [ ] Implementar usando lista ligada, com ponteiro de cauda (aponta para o último elemento de uma lista):
+    - [x] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
+    - [x] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer) 
+    - [x] [[Review] Queues in 3 minutes (video)](https://youtu.be/D6gu-_tmEpQ)(Buffer circular/Primeiro a entrar, último a sair)
+    - [x] Implementar usando lista ligada, com ponteiro de cauda (aponta para o último elemento de uma lista):
         - enqueue(valor) - adiciona "valor" na posição na cauda (final da lista)
         - dequeue() - retorna um valor e remove o elemento menos recentemente adicionado (início da lista))
         - empty()
-    - [ ] Implementar usando arrays de tamanho-fixo:
+    - [x] Implementar usando arrays de tamanho-fixo:
         - enqueue(valor) - adiciona um item no final do armazenamento disponível
         - dequeue() - retorna um valor e remove um elemento menos recentemente adicionado 
         - empty()
         - full()
-    - [ ] Custo:
+    - [x] Custo:
         - uma implementação ruim usando lista ligada na qual você coloca na fila (enqueue) no head (cabeça/início da lista) e tira da fila (dequeue) no tail (cauda/final da lista) seria O(n)
             porque você precisaria do penúltimo elemento, causando uma transversal completa a cada dequeue 
         - enqueue: O(1) (amortizado, lista ligada e array [sondagem])
         - dequeue: O(1) (lista ligada e array)
         - empty (vazio): O(1) (lista ligada e array)
-
+    - [x] Implementações
+        - [x] C
+        - [x] C++
+        - [x] Python
 - ### Tabela hash
     - [ ] vídeos:
         - [ ] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8) (Hashing com Encadeamento - vídeo)
