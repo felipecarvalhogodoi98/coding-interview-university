@@ -661,6 +661,11 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
         - remove(chave)
         - resize(newCapacity)
 
+    - [x] Implementações
+        - [x] C
+        - [x] C++
+        - [x] Python
+
 ## Mais Conhecimento
 
 - ### Busca binária
