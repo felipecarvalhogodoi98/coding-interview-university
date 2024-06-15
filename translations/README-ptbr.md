@@ -698,15 +698,15 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4) (Binário: Vantagens & Desvantagens (Por Que Usamos Complemento de 2) - vídeo)
         - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement) (Complemento de 1)
         - [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement) (Complemento de 2)
-    - [ ] contagem de bits fixos
+    - [x] contagem de bits fixos
         - [4 ways to count bits in a byte (video)](https://youtu.be/Hzuzo9NJrlc) (4 maneiras de contar bits em um byte - vídeo)
         - [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan) (Contagem de Bits)
         - [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer) (Como Contar O Número De Bits Fixos Em um Número inteiro de 32 bits)
-    - [ ] arredondar para a próxima potência de 2:
+    - [x] arredondar para a próxima potência de 2:
         - [Round Up To Next Power Of Two](http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html) (Arredondar Para Cima Para A Próxima Potência De Dois)
-    - [ ] trocar valores:
+    - [x] trocar valores:
         - [Swap](http://bits.stephan-brumme.com/swap.html) (Trocar)
-    - [ ] valor absoluto:
+    - [x] valor absoluto:
         - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html) (Número Inteiro Absoluto)
 
 ## Árvores
