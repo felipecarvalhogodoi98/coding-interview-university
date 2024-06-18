@@ -731,12 +731,12 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
         - em-ordem ou ordem simétrica(na busca em profundidade (ou DFS): percorre subárvore esquerda em ordem simétrica (em-ordem), visita a raiz, percorre subárvore direita em ordem simétrica)
         - pós-ordem (na busca em profundidade (ou DFS): percorre subárvore esquerda em pós-ordem, percorre subárvore direita em pós-ordem, visita a raiz)
         - pré-ordem (na busca em profundidade (ou DFS): visita a raiz, percorre subárvore esquerda em pré-ordem, percorre subárvore direita em pré-ordem)
-    - [ ] [[Review] Breadth-first search in 4 minutes (video)](https://youtu.be/HZ5YTanv5QE)
-    - [ ] [[Review] Depth-first search in 4 minutes (video)](https://youtu.be/Urx87-NMm6c)
-    - [ ] [[Review] Tree Traversal (playlist) in 11 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO1JC2RgEi04nLy6D-rKk6b)
+    - [x] [[Review] Breadth-first search in 4 minutes (video)](https://youtu.be/HZ5YTanv5QE)
+    - [x] [[Review] Depth-first search in 4 minutes (video)](https://youtu.be/Urx87-NMm6c)
+    - [x] [[Review] Tree Traversal (playlist) in 11 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO1JC2RgEi04nLy6D-rKk6b)
 
 - ### Árvores binárias de busca: ABB
-    - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6) (Revisão de Árvores Binárias de Busca - vídeo)
+    - [x] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6) (Revisão de Árvores Binárias de Busca - vídeo)
     - [ ] [Série (vídeo)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
         - começa com tabela de símbolos e passa por aplicações de ABB
     - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction) (Introdução - vídeo)
