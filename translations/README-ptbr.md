@@ -712,7 +712,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 ## Árvores
 
 - ### Árvores - Anotações e Fundamentos
-    - [ ] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees) (Série: Árvores - vídeo)
+    - [x] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees) (Série: Árvores - vídeo)
     - contrução básica de árvore
     - transversal
     - algorítmos de manipulação
