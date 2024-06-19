@@ -739,31 +739,31 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
     - [x] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6) (Revisão de Árvores Binárias de Busca - vídeo)
     - [ ] [Série (vídeo)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
         - começa com tabela de símbolos e passa por aplicações de ABB
-    - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction) (Introdução - vídeo)
-    - [ ] [MIT (vídeo)](https://www.youtube.com/watch?v=9Jry5-82I68)
+    - [x] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction) (Introdução - vídeo)
+    - [x] [MIT (vídeo)](https://www.youtube.com/watch?v=9Jry5-82I68)
     - C/C++:
-        - [ ] [Binary search tree - Implementation in C/C++ (video)](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28) (Árvore binária de busca - Implementação em C/C++ - vídeo)
+        - [x] [Binary search tree - Implementation in C/C++ (video)](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28) (Árvore binária de busca - Implementação em C/C++ - vídeo)
         - [ ] [BST implementation - memory allocation in stack and heap (video)](https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29) (Implementação de ABB - alocação de memória estática (stack) e dinâmica (heap) - vídeo)
         - [ ] [Find min and max element in a binary search tree (video)](https://www.youtube.com/watch?v=Ut90klNN264&index=30&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) (Encontrar elementos min e max em uma árvore binária de busca - vídeo)
         - [ ] [Find height of a binary tree (video)](https://www.youtube.com/watch?v=_pnqMz5nrRs&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=31) (Encontrar altura de uma árvore binária - vídeo)
         - [ ] [Binary tree traversal - breadth-first and depth-first strategies (video)](https://www.youtube.com/watch?v=9RHO6jU--GU&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=32) (Percurso de uma árvore binária - estratégias de busca em largura e busca em profundidade - vídeo)
-        - [ ] [Binary tree: Level Order Traversal (video)](https://www.youtube.com/watch?v=86g8jAQug04&index=33&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) (Árvore binária: Percurso de Ordens de Níveis - vídeo)
+        - [x] [Binary tree: Level Order Traversal (video)](https://www.youtube.com/watch?v=86g8jAQug04&index=33&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) (Árvore binária: Percurso de Ordens de Níveis - vídeo)
         - [ ] [Binary tree traversal: Preorder, Inorder, Postorder (video)](https://www.youtube.com/watch?v=gm8DUJJhmY4&index=34&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) (Percurso de árvore binária: Pré-ordem, Em-ordem (ordem simétrica), Pós-ordem - vídeo)
-        - [ ] [Check if a binary tree is binary search tree or not (video)](https://www.youtube.com/watch?v=yEwSGhSsT0U&index=35&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) (Verificar se uma árvore binária é uma árvore binária de busca ou não - vídeo)
-        - [ ] [Delete a node from Binary Search Tree (video)](https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36) (Deletar um nó de uma Árvore Binária de Busca - vídeo)
+        - [x] [Check if a binary tree is binary search tree or not (video)](https://www.youtube.com/watch?v=yEwSGhSsT0U&index=35&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) (Verificar se uma árvore binária é uma árvore binária de busca ou não - vídeo)
+        - [x] [Delete a node from Binary Search Tree (video)](https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36) (Deletar um nó de uma Árvore Binária de Busca - vídeo)
         - [ ] [Inorder Successor in a binary search tree (video)](https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) (Sucessor Em-ordem em uma árvore binária de busca - vídeo)
     - [ ] Implementar:
-        - [ ] insert    // insere um valor na árvore
-        - [ ] get_node_count // obtém contagem de valores armazenados
-        - [ ] print_values // exibe os valores na árvore, do min até o max
-        - [ ] delete_tree
-        - [ ] is_in_tree // retorna "true" se tal valor existir na árvore
-        - [ ] get_height // retorna a altura nos nós (altura de nó único é 1)
-        - [ ] get_min   // retorna o valor mínimo armazenado na árvore
-        - [ ] get_max   // retorna o valor máximo armazenado na árvore
-        - [ ] is_binary_search_tree
-        - [ ] delete_value
-        - [ ] get_successor // retorna o próximo maior valor na árvore após dado valor, -1 se não houver nenhum
+        - [x] insert    // insere um valor na árvore
+        - [x] get_node_count // obtém contagem de valores armazenados
+        - [x] print_values // exibe os valores na árvore, do min até o max
+        - [x] delete_tree
+        - [x] is_in_tree // retorna "true" se tal valor existir na árvore
+        - [x] get_height // retorna a altura nos nós (altura de nó único é 1)
+        - [x] get_min   // retorna o valor mínimo armazenado na árvore
+        - [x] get_max   // retorna o valor máximo armazenado na árvore
+        - [x] is_binary_search_tree
+        - [x] delete_value
+        - [x] get_successor // retorna o próximo maior valor na árvore após dado valor, -1 se não houver nenhum
 
 - ### Memória Dinâmica (heap) / Filas Prioritárias / Memória Dinâmica Binária (heap binary)
     - visualizada como uma árvore, mas geralmente é linear no armazenamento (array, lista ligada)
