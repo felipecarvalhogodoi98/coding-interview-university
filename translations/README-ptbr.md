@@ -855,8 +855,8 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
         - [ ] [5. 3 Way Radix Quicksort](https://www.youtube.com/watch?v=YVl58kfE6i8&index=2&list=PLe-ggMe31CTcNvUX9E3tQeM6ntrdR8e53) (Quicksort Radix de 3 vias)
         - [ ] [6. Suffix Arrays](https://www.youtube.com/watch?v=HKPrVm5FWvg&list=PLe-ggMe31CTcNvUX9E3tQeM6ntrdR8e53&index=1) (Arrays de Sufixos)
     - [ ] [Radix Sort](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#radixSort) (Radix Sort)
-    - [ ] [Radix Sort (vídeo)](https://www.youtube.com/watch?v=xhr26ia4k38)
-    - [ ] [Radix Sort, Counting Sort (linear time given constraints) (video)](https://www.youtube.com/watch?v=Nz1KZXbghj8&index=7&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (Radix Sort, Ordenação por Contagem (tempo linear dadas restrições))
+    - [x] [Radix Sort (vídeo)](https://www.youtube.com/watch?v=xhr26ia4k38)
+    - [x] [Radix Sort, Counting Sort (linear time given constraints) (video)](https://www.youtube.com/watch?v=Nz1KZXbghj8&index=7&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (Radix Sort, Ordenação por Contagem (tempo linear dadas restrições))
     - [ ] [Randomization: Matrix Multiply, Quicksort, Freivalds' algorithm (video)](https://www.youtube.com/watch?v=cNB2lADK3_s&index=8&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) (Randomização: Multiplicação de Matriz, Quicksort, Algoritmo de Freivalds - vídeo)
     - [ ] [Sorting in Linear Time (video)](https://www.youtube.com/watch?v=pOKy3RZbSws&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=14) (Ordenando em Tempo Linear - vídeo)
 
