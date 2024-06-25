@@ -767,7 +767,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 
 - ### Memória Dinâmica (heap) / Filas Prioritárias / Memória Dinâmica Binária (heap binary)
     - visualizada como uma árvore, mas geralmente é linear no armazenamento (array, lista ligada)
-    - [ ] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure)) (Memória DInâmica)
+    - [x] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure)) (Memória DInâmica)
     - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction) (Introdução - vídeo)
     - [ ] [Naive Implementations (video)](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations) (Implementações Ingênuas - vídeo)
     - [ ] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees) (Árvores Binárias - vídeo)
@@ -775,60 +775,64 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
     - [ ] [Basic Operations (video)](https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations) (Operações Básicas - vídeo)
     - [ ] [Complete Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees) (Árvores Binárias Completas - vídeo)
     - [ ] [Pseudocode (video)](https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode) (Pseudocódigo - vídeo)
-    - [ ] [Heap Sort - jumps to start (video)](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291) (Algoritmo de Ordenação heapsort - pula para o começo - vídeo)
+    - [x] [Heap Sort - jumps to start (video)](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291) (Algoritmo de Ordenação heapsort - pula para o começo - vídeo)
     - [ ] [Heap Sort (video)](https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort) (Algoritmo de Ordenação heapsort - vídeo)
     - [ ] [Building a heap (video)](https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap) (Construindo uma memória dinâmica (heap) - vídeo)
-    - [ ] [MIT: Heaps and Heap Sort (video)](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (MIT: Memórias Dinâmias e heapsort - vídeo)
+    - [x] [MIT: Heaps and Heap Sort (video)](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (MIT: Memórias Dinâmias e heapsort - vídeo)
     - [ ] [CS 61B Lecture 24: Priority Queues (video)](https://www.youtube.com/watch?v=yIUFT6AKBGE&index=24&list=PL4BBB74C7D2A1049C) (CS (Ciência da Computação) 61B Aula 24: Filas Prioritárias - vídeo)
-    - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw) (BuildHeap em Tempo Linear (heap máxima))
+    - [x] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw) (BuildHeap em Tempo Linear (heap máxima))
     - [ ] [[Review] Heap (playlist) in 13 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZNsyqgPW-DNwUeT8F8uhWc6)
-    - [ ] Implementar uma heap máxima (max-heap):
-        - [ ] insert
-        - [ ] sift_up - necessário insert
-        - [ ] get_max - retorna o item max (maior item), sem removê-lo
-        - [ ] get_size() - retorna o número de elementos armazenados
-        - [ ] is_empty() - retorna "true" se o heap não contém elementos
-        - [ ] extract_max - retorna o item max (maior item), removendo ele
-        - [ ] sift_down - necessário para extract_max
+    - [x] Implementar uma heap máxima (max-heap):
+        - [x] insert
+        - [x] sift_up - necessário insert
+        - [x] get_max - retorna o item max (maior item), sem removê-lo
+        - [x] get_size() - retorna o número de elementos armazenados
+        - [x] is_empty() - retorna "true" se o heap não contém elementos
+        - [x] extract_max - retorna o item max (maior item), removendo ele
+        - [x] sift_down - necessário para extract_max
         - [ ] remove(i) - remove o item no índice x
-        - [ ] heapify - cria um heap a partir de um array de elementos, necessário para heap_sort
-        - [ ] heap_sort() - pega um array não-ordenado e o transforma em um array ordenado "in-place" (sem gerar um novo array) usando uma heap máxima (max-heap)
+        - [x] heapify - cria um heap a partir de um array de elementos, necessário para heap_sort
+        - [x] heap_sort() - pega um array não-ordenado e o transforma em um array ordenado "in-place" (sem gerar um novo array) usando uma heap máxima (max-heap)
             - nota: usando uma heap mínima (min-heap) ao invés de uma heap máxima (max-heap) poderia salvar operações, mas duplicar o espaço necessário (não é possível fazer "in-place")
+    - [x] Implementações
+        - [] C
+        - [x] C++
+        - [] Python
 
 ## Ordenação
 
-- [ ] Anotações:
+- [x] Anotações:
     - Implementar ordenações e saber melhor/pior cenário, complexidade média de cada um:
         - sem ordenação por bolha - é terrível - O(n^2), exceto quando n <= 16
-    - [ ] estabilidade em algoritmos de ordenação ("O algoritmo de ordenação quicksort é estável?")
+    - [x] estabilidade em algoritmos de ordenação ("O algoritmo de ordenação quicksort é estável?")
         - [Sorting Algorithm Stability](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability) (Artigo da Wikipédia em Inglês sobre Estabilidade de Algoritmo de Ordenação, infelizmente a versão em Português não é tão informativa)
         - [Stability In Sorting Algorithms](http://stackoverflow.com/questions/1517793/stability-in-sorting-algorithms) (Estabilidade em Algoritmos de Ordenação)
         - [Stability In Sorting Algorithms](http://www.geeksforgeeks.org/stability-in-sorting-algorithms/) (Estabilidade em Algoritmos de Ordenação)
         - [Sorting Algorithms - Stability](http://homepages.math.uic.edu/~leon/cs-mcs401-s08/handouts/stability.pdf) (Algoritmos de Ordenação - Estabilidade)
-    - [ ] Quais algoritmos podem ser usados em listas ligadas? Quais em arrays? Quais em ambos?
+    - [x] Quais algoritmos podem ser usados em listas ligadas? Quais em arrays? Quais em ambos?
         - Eu não recomendaria ordenar uma lista ligada, mas ordenação por mistura (merge sort) é possível de se fazer.
         - [Merge Sort For Linked List](http://www.geeksforgeeks.org/merge-sort-for-linked-list/) (Merge Sort Para Listas Ligadas)
 
 - Para heapsort, veja estrutura de dados heap acima. Heapsort é ótimo, mas não é estável.
 
-- [ ] [Bubble Sort (video)](https://www.youtube.com/watch?v=P00xJgWzz2c&index=1&list=PL89B61F78B552C1AB) (Ordenação por Bolha - vídeo)
-- [ ] [Analyzing Bubble Sort (video)](https://www.youtube.com/watch?v=ni_zk257Nqo&index=7&list=PL89B61F78B552C1AB) (Analisando Ordenação por Bolha - vídeo)
-- [ ] [Insertion Sort, Merge Sort (video)](https://www.youtube.com/watch?v=Kg4bqzAqRBM&index=3&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (Ordenação por Inserção, Ordenação por Mistura - vídeo)
-- [ ] [Insertion Sort (video)](https://www.youtube.com/watch?v=c4BRHC7kTaQ&index=2&list=PL89B61F78B552C1AB) (Ordenação por Inserção - vídeo)
-- [ ] [Merge Sort (video)](https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB) (Ordenação por Mistura - vídeo)
-- [ ] [Quicksort (vídeo)](https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB)
-- [ ] [Selection Sort (video)](https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB) (Ordenação por Seleção - vídeo)
+- [x] [Bubble Sort (video)](https://www.youtube.com/watch?v=P00xJgWzz2c&index=1&list=PL89B61F78B552C1AB) (Ordenação por Bolha - vídeo)
+- [x] [Analyzing Bubble Sort (video)](https://www.youtube.com/watch?v=ni_zk257Nqo&index=7&list=PL89B61F78B552C1AB) (Analisando Ordenação por Bolha - vídeo)
+- [x] [Insertion Sort, Merge Sort (video)](https://www.youtube.com/watch?v=Kg4bqzAqRBM&index=3&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (Ordenação por Inserção, Ordenação por Mistura - vídeo)
+- [x] [Insertion Sort (video)](https://www.youtube.com/watch?v=c4BRHC7kTaQ&index=2&list=PL89B61F78B552C1AB) (Ordenação por Inserção - vídeo)
+- [x] [Merge Sort (video)](https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB) (Ordenação por Mistura - vídeo)
+- [x] [Quicksort (vídeo)](https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB)
+- [x] [Selection Sort (video)](https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB) (Ordenação por Seleção - vídeo)
 
-- [ ] Código de ordenação por mistura:
-    - [ ] [Using output array (C)](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/sorting/mergesort.c) (Usando array de saída (C))
-    - [ ] [Using output array (Python)](https://github.com/jwasham/practice-python/blob/master/merge_sort/merge_sort.py) (Usando array de saída (Python))
-    - [ ] [In-place (C++)](https://github.com/jwasham/practice-cpp/blob/master/merge_sort/merge_sort.cc)
-- [ ] Código de algoritmo de ordenação quicksort:
-    - [ ] [Implementation (C)](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/randomization/quick.c) (Implementação em C)
-    - [ ] [Implementation (C)](https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c) (Implementação em C)
-    - [ ] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py) (Implementação em Python)
+- [x] Código de ordenação por mistura:
+    - [x] [Using output array (C)](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/sorting/mergesort.c) (Usando array de saída (C))
+    - [x] [Using output array (Python)](https://github.com/jwasham/practice-python/blob/master/merge_sort/merge_sort.py) (Usando array de saída (Python))
+    - [x] [In-place (C++)](https://github.com/jwasham/practice-cpp/blob/master/merge_sort/merge_sort.cc)
+- [x] Código de algoritmo de ordenação quicksort:
+    - [x] [Implementation (C)](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/randomization/quick.c) (Implementação em C)
+    - [x] [Implementation (C)](https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c) (Implementação em C)
+    - [x] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py) (Implementação em Python)
 
-- [ ] [[Review] Sorting (playlist) in 18 minutes](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
+- [x] [[Review] Sorting (playlist) in 18 minutes](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
     - [ ] [Quick sort in 4 minutes (video)](https://youtu.be/Hoixgm4-P4M)
     - [ ] [Heap sort in 4 minutes (video)](https://youtu.be/2DmK_H7IdTo)
     - [ ] [Merge sort in 3 minutes (video)](https://youtu.be/4VqmGXwpLqc)
@@ -837,8 +841,8 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
     - [ ] [Insertion sort in 2 minutes (video)](https://youtu.be/JU767SDMDvA)
 
 - [ ] Implementar:
-    - [ ] Mergesort: O(n log n) caso comum e pior caso
-    - [ ] Quicksort O(n log n) caso comum
+    - [x] Mergesort: O(n log n) caso comum e pior caso
+    - [x] Quicksort O(n log n) caso comum
     - Ordenação por seleção e inserção são ambos O(n^2) caso comum e pior caso
     - Para heapsort, veja estrutura de dados heap acima.
 
