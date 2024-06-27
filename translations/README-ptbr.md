@@ -878,7 +878,7 @@ Grafos podem ser usados para representar muitos problemas na Ciência da Computa
     - Quando for perguntado uma questão, busque por uma solução baseada em grafos primeiro, depois se não houver nenhuma, siga em frente.
 
 - [ ] Aulas do Skiena - ótima introdução:
-    - [ ] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11) (CSE373 2012 - Aula 11 - Estrutura de Dados de Grafos - vídeo)
+    - [x] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11) (CSE373 2012 - Aula 11 - Estrutura de Dados de Grafos - vídeo)
     - [ ] [CSE373 2012 - Lecture 12 - Breadth-First Search (video)](https://www.youtube.com/watch?v=g5vF8jscteo&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=12) (CSE373 2012 - Aula 12 - Busca em Largura - vídeo)
     - [ ] [CSE373 2012 - Lecture 13 - Graph Algorithms (video)](https://www.youtube.com/watch?v=S23W6eTcqdY&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=13) (CSE373 2012 - Aula 13 - Algoritmos de Grafos - vídeo)
     - [ ] [CSE373 2012 - Lecture 14 - Graph Algorithms (con't) (video)](https://www.youtube.com/watch?v=WitPBKGV0HY&index=14&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b) (CSE373 2012 - Aula 11 - Algoritmos de Grafos (parte 1) - vídeo)
@@ -906,7 +906,7 @@ Grafos podem ser usados para representar muitos problemas na Ciência da Computa
     - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome) (Algoritmos em Grafos - vídeo)
 
 - Irei implementar:
-    - [ ] Busca em Profundidade (DFS) com lista de adjacência (recursivo)
+    - [x] Busca em Profundidade (DFS) com lista de adjacência (recursivo)
     - [ ] Busca em Profundidade (DFS) com lista de adjacência (iterativo com memória estática (stack))
     - [ ] Busca em Profundidade (DFS) com matriz de adjacência (recursivo)
     - [ ] Busca em Profundidade (DFS) com matriz de adjacência (iterativo com memória estática (stack))
