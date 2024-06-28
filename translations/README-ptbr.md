@@ -907,11 +907,11 @@ Grafos podem ser usados para representar muitos problemas na Ciência da Computa
 
 - Irei implementar:
     - [x] Busca em Profundidade (DFS) com lista de adjacência (recursivo)
-    - [ ] Busca em Profundidade (DFS) com lista de adjacência (iterativo com memória estática (stack))
-    - [ ] Busca em Profundidade (DFS) com matriz de adjacência (recursivo)
-    - [ ] Busca em Profundidade (DFS) com matriz de adjacência (iterativo com memória estática (stack))
-    - [ ] Busca em Largura (BFS) com lista de adjacência
-    - [ ] Busca em Largura (BFS) com matriz de adjacência
+    - [x] Busca em Profundidade (DFS) com lista de adjacência (iterativo com memória estática (stack))
+    - [x] Busca em Profundidade (DFS) com matriz de adjacência (recursivo)
+    - [x] Busca em Profundidade (DFS) com matriz de adjacência (iterativo com memória estática (stack))
+    - [x] Busca em Largura (BFS) com lista de adjacência
+    - [x] Busca em Largura (BFS) com matriz de adjacência
     - [ ] menor caminho de fonte-única (Dijkstra)
     - [ ] árvore de extensão mínima
     - Algoritmos baseados em busca em profundidade (DFS) (ver vídeos da Aduni acima):
